@@ -14,8 +14,8 @@ sudo mv kubectl /usr/local/bin/
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 sudo install minikube-linux-amd64 /usr/local/bin/minikube
 
-echo enviroment ready go ahead to start minikube
-echo manually run minikube start --vm-driver=docker --memory=6G --cni=calico to start minikube
+echo "enviroment ready go ahead to start minikube"
+echo "manually run minikube start --vm-driver=docker --memory=6G --cni=calico to start minikube"
 
 sudo usermod -aG docker $USER
 newgrp docker
