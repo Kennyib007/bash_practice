@@ -1,9 +1,9 @@
 # Bash Scripting Practice
 
-Welcome to my Bash scripting practice repo! 🎉  
-This is a collection of hands-on exercises and mini-scripts I wrote while refreshing my Bash knowledge — from the basics to more intermediate concepts.
+Welcome to my Bash scripting practice repo!  
+This is a collection of hands-on exercises and mini-scripts I wrote while refreshing my Bash knowledge, from the basics to more intermediate concepts.
 
-## 🛠️ What’s inside?
+## What’s inside?
 
 This repo includes small, focused scripts and examples covering topics like:
 
